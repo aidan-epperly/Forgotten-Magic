@@ -8,3 +8,6 @@
 6. ~~Samurai 2~~ Dead
 7. Azel
 8. ~~Samurai 3~~ Dead
+#### Results
+---
+All three samurai are dead and Maki has lost use of his left arm.
