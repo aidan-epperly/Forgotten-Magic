@@ -20,3 +20,4 @@ Damage is another [[Roll-Off]] between the Attacker and Defender, but this time 
 | Simple Weapons | 1d8 |
 | Proper Weapons | 1d10 |
 | Epic Weapons | 1d12 / 1d10 + 1dR |
+Damage dice do not explode! The *skill* portion of the attack happened in the *Connecting* step where explosions are appropriate.
