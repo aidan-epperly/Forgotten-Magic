@@ -17,7 +17,7 @@ There are a number of bioluminescent "fungi" growing on the surface of the Great
 The Great Mountain Spirit has only one known contract.
 #### Saklani
 ---
-Saklani is the first Mushroom Disciple of the New Age of Spirits. They have been tasked with spreading the spores of the Spirit Spore Mushrooms wherever they travel. It is not yet known what effects this will have.
+Saklani is the first Mushroom Disciple of the Second Age of Spirits. They have been tasked with spreading the spores of the Spirit Spore Mushrooms wherever they travel. It is not yet known what effects this will have.
 
 ### Relationships
 ---
