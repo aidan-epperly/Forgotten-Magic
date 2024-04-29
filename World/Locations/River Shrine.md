@@ -5,7 +5,7 @@ Ever since the return of the River Shrine to the area, a great river has flowed 
 
 #### Drinking from the River
 ---
-Various player characters have consumed the water from the River. Primrose drank from the water and healed her arm after the fight with Arthur and the Golden Snake. Catheron drank from the water and was told that the river spirits had already granted their power to another.
+Various player characters have consumed the water from the River. Primrose drank from the water and healed her arm after the fight with Arthur and the Golden Snake. Catheron drank from the water and was told that the river spirits had already granted their power to another. Maki drank the water from the river which resulted in Primrose losing her power and Maki gaining it in turn.
 
 ### Domain
 ---
