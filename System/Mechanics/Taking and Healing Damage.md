@@ -20,6 +20,10 @@ Player Characters have a damage tolerance equal to the number of sides of their 
 3. Be Traumatized - the Character lives but suffers a grave trauma. This trauma can likely be overcome, but likely only as the result of a long term quest or mission.
 4. Accept Help From a Spirit - the Character reaches out and accepts help from an unknown Spirit. With this option and this option alone, the Player gives full narrative control to the Host.
 
+#### PC Healing
+---
+Without magical healing, a Player rolls their physical resistance each night an recover that many hit points.
+
 #### NPC Wounds
 ---
 When non-Player Characters suffer more damage than their tolerance, they are presumed dead. If someone in their party survives and retrieves them, they may live, but if all the NPCs on their side fall, they will all likely die.

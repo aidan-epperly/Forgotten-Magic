@@ -16,3 +16,14 @@ Many toxic substances exist in nature from venomous snakes to poisonous berries 
 #### Venom
 ---
 Venom in particular posses an interesting problem for this system as venom can essentially only be delivered as part of [[Making an Attack]]. As such, whether venom counts as environmental damage should follow from narrative considerations. It is entirely reasonable for a Character to have a toxin applied to their blade that would instantly kill any NPC they cut if it makes narrative sense, though in this case the toxin would certainly not be environmental damage.
+### Fire
+---
+Fire is another common hazard. If it is delivered as part of an attack, this mechanic should not be used. Every turn of repeated exposure incurs a further minus one for resisting the effects of the fire.
+
+| Amount of Fire   | Damage per Round |
+| ---------------- | ---------------- |
+| Campfire         | 1d4              |
+| Bonfire          | 1d6              |
+| House fire       | 1d8              |
+| On fire          | +1s              |
+| Smoke inhalation | +1s              |
